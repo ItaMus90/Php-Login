@@ -1,0 +1,76 @@
+[03-May-2018 14:52:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 14:52:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 14:55:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cryingab_users.users' doesn't exist' in /home/cryingabout/public_html/test-login/login.php:31
+Stack trace:
+#0 /home/cryingabout/public_html/test-login/login.php(31): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/cryingabout/public_html/test-login/login.php on line 31
+[03-May-2018 14:55:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cryingab_users.users' doesn't exist' in /home/cryingabout/public_html/test-login/login.php:31
+Stack trace:
+#0 /home/cryingabout/public_html/test-login/login.php(31): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/cryingabout/public_html/test-login/login.php on line 31
+[03-May-2018 14:59:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 14:59:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 15:00:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cryingab_users.users' doesn't exist' in /home/cryingabout/public_html/test-login/login.php:31
+Stack trace:
+#0 /home/cryingabout/public_html/test-login/login.php(31): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/cryingabout/public_html/test-login/login.php on line 31
+[03-May-2018 15:04:12 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/cryingabout/public_html/test-login/resource/Database.php on line 7
+[03-May-2018 15:09:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 15:16:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 15:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 15:26:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cryingab_users.users' doesn't exist' in /home/cryingabout/public_html/test-login/login.php:31
+Stack trace:
+#0 /home/cryingabout/public_html/test-login/login.php(31): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/cryingabout/public_html/test-login/login.php on line 31
+[03-May-2018 15:27:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 94
+[03-May-2018 15:27:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 73
+[03-May-2018 15:27:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 73
+[03-May-2018 15:30:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 73
+[03-May-2018 15:32:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 15:34:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 73
+[03-May-2018 15:35:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 73
+[03-May-2018 16:00:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 16:03:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 16:04:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 16:06:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 94
+[03-May-2018 16:06:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 73
+[03-May-2018 16:10:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/login.php on line 49
+[03-May-2018 16:10:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/login.php on line 49
+[03-May-2018 16:13:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/login.php on line 49
+[03-May-2018 16:13:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/login.php on line 49
+[03-May-2018 16:15:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:24) in /home/cryingabout/public_html/test-login/login.php on line 49
+[03-May-2018 16:23:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:25) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 94
+[03-May-2018 16:57:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 16:57:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:25) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 94
+[03-May-2018 17:09:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 17:09:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:25) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 94
+[03-May-2018 17:16:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 17:37:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 17:38:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:25) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 94
+[03-May-2018 17:45:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:10:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:11:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:12:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:13:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:14:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:16:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:18:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cryingabout/public_html/test-login/login.php:25) in /home/cryingabout/public_html/test-login/resource/utilities.php on line 94
+[03-May-2018 20:21:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:24:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:29:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:31:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:47:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:48:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 20:50:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 21:14:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 21:15:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 21:15:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 22:52:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[03-May-2018 23:01:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[04-May-2018 06:58:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
+[04-May-2018 06:59:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cryingabout/public_html/test-login/resource/utilities.php on line 55
